@@ -23,7 +23,7 @@ def getUserInput():
 def getOutput():
     query = getUserInput()
     #enter your API Key
-    API_KEY = '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'
+    API_KEY = 'XXXX'
     openai.api_key = API_KEY
     #text model
     model = 'text-davinci-003'
